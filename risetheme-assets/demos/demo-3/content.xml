@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7" created="2021-04-10 12:43" -->
+	<!-- generator="WordPress/5.7.2" created="2021-05-20 13:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>rise</title>
 	<link>https://sunshine-themes.com/risetheme-demo3</link>
 	<description>The official choice of health nuts everywhere</description>
-	<pubDate>Sat, 10 Apr 2021 12:43:55 +0000</pubDate>
+	<pubDate>Thu, 20 May 2021 13:15:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://sunshine-themes.com/</wp:base_site_url>
@@ -385,8 +385,10 @@
 	</wp:term>
 			<wp:term><wp:term_id>34</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
 </wp:term>
+	<wp:term><wp:term_id>35</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[secondaryfooter]]></wp:term_slug><wp:term_name><![CDATA[Secondary(footer)]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/rise-icon-100x100.png</url>
@@ -3862,7 +3864,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/233/</link>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/233/</link>
 		<pubDate>Fri, 05 Mar 2021 13:32:12 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
 		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=233</guid>
@@ -3870,10 +3872,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>233</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-05 13:32:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[233]]></wp:post_name>
@@ -3936,10 +3938,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[RESERVATIONS]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/248/</link>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/248/</link>
 		<pubDate>Thu, 18 Mar 2021 22:24:04 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
 		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=248</guid>
@@ -3947,16 +3957,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>248</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 22:24:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[248]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4005,74 +4015,13 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ABOUT US]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/254/</link>
-		<pubDate>Fri, 19 Mar 2021 00:51:17 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=254</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>254</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-19 00:51:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[254]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[250]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4106,201 +4055,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2462;s:6:"height";i:3686;s:4:"file";s:38:"2021/03/salmon-in-a-bowl-3296587-1.jpg";s:5:"sizes";a:13:{s:6:"medium";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:39:"salmon-in-a-bowl-3296587-1-684x1024.jpg";s:5:"width";i:684;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"salmon-in-a-bowl-3296587-1-768x1150.jpg";s:5:"width";i:768;s:6:"height";i:1150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"etfrtb_logo";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-134x200.jpg";s:5:"width";i:134;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:40:"salmon-in-a-bowl-3296587-1-1026x1536.jpg";s:5:"width";i:1026;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:9:"2048x2048";a:4:{s:4:"file";s:40:"salmon-in-a-bowl-3296587-1-1368x2048.jpg";s:5:"width";i:1368;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-600x898.jpg";s:5:"width";i:600;s:6:"height";i:898;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-600x898.jpg";s:5:"width";i:600;s:6:"height";i:898;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:38:"salmon-in-a-bowl-3296587-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[GALLERY]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/gallery/</link>
-		<pubDate>Sat, 20 Mar 2021 18:37:24 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=281</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>281</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 18:37:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gallery]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[279]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[MENU]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/menu/</link>
-		<pubDate>Sat, 20 Mar 2021 18:37:24 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=282</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>282</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 18:37:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[menu]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[273]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[EVENTS]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/298/</link>
-		<pubDate>Sat, 20 Mar 2021 20:05:06 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=298</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>298</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 20:05:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[298]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[296]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4517,7 +4271,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:16:"site_description";s:45:"The official choice of health nuts everywhere";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:16:"site_description";s:45:"The official choice of health nuts everywhere";s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4587,32 +4341,98 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Shop]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/shop/</link>
-		<pubDate>Sat, 10 Apr 2021 11:42:00 +0000</pubDate>
+		<title><![CDATA[pexels-taryn-elliott-4457124]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/pexels-taryn-elliott-4457124-2/</link>
+		<pubDate>Wed, 28 Apr 2021 22:01:24 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=523</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/04/pexels-taryn-elliott-4457124-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>523</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-04-10 11:42:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:14]]></wp:post_modified_gmt>
+		<wp:post_id>535</wp:post_id>
+		<wp:post_date><![CDATA[2021-04-28 22:01:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-04-28 22:01:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-28 22:01:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-28 22:01:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-taryn-elliott-4457124-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/04/pexels-taryn-elliott-4457124-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/04/pexels-taryn-elliott-4457124-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:320;s:6:"height";i:480;s:4:"file";s:42:"2021/04/pexels-taryn-elliott-4457124-1.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:11:"etfrtb_logo";a:4:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-133x200.jpg";s:5:"width";i:133;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:42:"pexels-taryn-elliott-4457124-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[hamburger-5630800_1920]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/hamburger-5630800_1920/</link>
+		<pubDate>Fri, 14 May 2021 21:32:43 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/05/hamburger-5630800_1920.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>567</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-14 21:32:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-14 21:32:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-14 21:32:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-14 21:32:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hamburger-5630800_1920]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/05/hamburger-5630800_1920.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/05/hamburger-5630800_1920.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:34:"2021/05/hamburger-5630800_1920.jpg";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"hamburger-5630800_1920-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:11:"etfrtb_logo";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-200x133.jpg";s:5:"width";i:200;s:6:"height";i:133;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:36:"hamburger-5630800_1920-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:34:"hamburger-5630800_1920-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:34:"hamburger-5630800_1920-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:2:"11";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D7200";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[FAQ]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/faq/</link>
+		<pubDate>Thu, 20 May 2021 12:11:17 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=578</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>578</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:11:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 12:11:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:11:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:11:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+										<category domain="nav_menu" nicename="secondaryfooter"><![CDATA[Secondary(footer)]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -4620,11 +4440,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[217]]></wp:meta_value>
+		<wp:meta_value><![CDATA[578]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -4640,33 +4460,123 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Newsletter]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/newsletter/</link>
-		<pubDate>Tue, 30 Mar 2021 15:39:46 +0000</pubDate>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/privacy-policy/</link>
+		<pubDate>Thu, 20 May 2021 12:11:17 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/newsletter/</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=579</guid>
 		<description></description>
-		<content:encoded><![CDATA[[newsletter]]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:39:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:39:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:39:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:39:46]]></wp:post_modified_gmt>
+		<wp:post_id>579</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:11:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 12:11:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:11:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:11:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="nav_menu" nicename="secondaryfooter"><![CDATA[Secondary(footer)]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[579]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Terms & Conditions]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/terms-conditions/</link>
+		<pubDate>Thu, 20 May 2021 12:11:17 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=580</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>580</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:11:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 12:11:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:11:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:11:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[terms-conditions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="secondaryfooter"><![CDATA[Secondary(footer)]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[580]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Order Now]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/shop-3/</link>
@@ -4725,8 +4635,8 @@
 		<wp:post_id>218</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-02 16:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-02 16:09:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-02 16:09:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-02 16:09:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-10 13:11:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-10 13:11:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demo-cart]]></wp:post_name>
@@ -4738,7 +4648,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[204]]></wp:meta_value>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -4838,42 +4748,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Newsletter]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=221</link>
-		<pubDate>Tue, 02 Mar 2021 16:10:53 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/newsletter/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[newsletter]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>221</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-02 16:10:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-02 16:10:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsletter-2-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119801]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newsletter-2-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Reservations]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/reservation/</link>
 		<pubDate>Thu, 18 Mar 2021 22:22:03 +0000</pubDate>
@@ -4968,13 +4842,17 @@
 <div style="height:150px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:sunshine-riseplugin/zigzag {"mainDescription":"Everybody is at your service to offer the best experience possible.","titles":["Daniel Boulud","Gordon Ramsay","Chef"],"descriptions":["There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable","There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable","There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable"],"images":["https://sunshine-themes.com/risetheme/wp-content/uploads/sites/2/2021/03/a-chef-in-red-apron-with-a-smile-on-his-face-3351927.jpg","https://sunshine-themes.com/risetheme/wp-content/uploads/sites/2/2021/03/chef-holding-white-tea-cup-887827_2.jpg","https://sunshine-themes.com/risetheme/wp-content/uploads/sites/2/2021/03/a-chef-in-red-apron-with-a-smile-on-his-face-3351927.jpg"],"sectionsArray":[1,null,null],"focalPoint":[{"x":"0.44","y":"0.20"},{"x":"0.54","y":"0.27"},{"x":"0.28","y":"0.56"}]} /-->]]></content:encoded>
+<!-- wp:sunshine-riseplugin/zigzag {"mainDescription":"Everybody is at your service to offer the best experience possible.","titles":["Daniel Boulud","Gordon Ramsay","Chef"],"shadow":false,"descriptions":["There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable","There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable","There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable"],"images":["https://sunshine-themes.com/risetheme/wp-content/uploads/sites/2/2021/03/a-chef-in-red-apron-with-a-smile-on-his-face-3351927.jpg","https://sunshine-themes.com/risetheme/wp-content/uploads/sites/2/2021/03/chef-holding-white-tea-cup-887827_2.jpg","https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/04/pexels-taryn-elliott-4457124-1.jpg"],"sectionsArray":[1,null,null],"focalPoint":[{"x":"0.44","y":"0.20"},{"x":"0.54","y":"0.27"},{"x":"0.28","y":"0.56"}]} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-19 02:43:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-19 00:43:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-19 02:43:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-19 00:43:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-28 22:23:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-28 22:23:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -5010,6 +4888,83 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[ABOUT US]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/254/</link>
+		<pubDate>Fri, 19 Mar 2021 00:51:17 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=254</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>254</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-19 00:51:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[254]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Menu]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/menu/</link>
 		<pubDate>Sat, 20 Mar 2021 18:19:36 +0000</pubDate>
@@ -5027,8 +4982,8 @@
 		<wp:post_id>273</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-20 20:19:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-20 18:19:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 09:58:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 09:58:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-10 00:41:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-10 00:41:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu]]></wp:post_name>
@@ -5039,10 +4994,6 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[224]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[templates/headerimage.php]]></wp:meta_value>
 		</wp:postmeta>
@@ -5057,6 +5008,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
 		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[224]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5104,9 +5059,155 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[GALLERY]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/gallery/</link>
+		<pubDate>Sat, 20 Mar 2021 18:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=281</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>281</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 18:37:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[gallery]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[279]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[MENU]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/menu/</link>
+		<pubDate>Sat, 20 Mar 2021 18:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=282</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>282</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 18:37:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[menu]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[273]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Events]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/events/</link>
-		<pubDate>Sat, 20 Mar 2021 20:03:14 +0000</pubDate>
+		<link>https://sunshine-themes.com/risetheme-demo3/demo-events/</link>
+		<pubDate>Sat, 20 Mar 2021 22:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
 		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?page_id=296</guid>
 		<description></description>
@@ -5114,12 +5215,12 @@
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>296</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-20 22:03:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 20:03:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-20 22:03:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-20 20:03:14]]></wp:post_modified_gmt>
+		<wp:post_date_gmt><![CDATA[2021-03-20 22:03:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:59:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:59:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[events]]></wp:post_name>
+		<wp:post_name><![CDATA[demo-events]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5141,6 +5242,83 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[EVENTS]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/298/</link>
+		<pubDate>Sat, 20 Mar 2021 20:05:06 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=298</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>298</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 20:05:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[298]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[296]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5174,7 +5352,7 @@
 <div style="height:90px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:sunshine-riseplugin/dividersection {"img":"https://sunshine-themes.com/risetheme-demo2/wp-content/uploads/sites/5/2021/03/cooked-foods-858508_2-e1616705650602.jpg","height":75,"parallax":false} /-->
+<!-- wp:sunshine-riseplugin/dividersection {"img":"https://sunshine-themes.com/risetheme-demo2/wp-content/uploads/sites/5/2021/03/cooked-foods-858508_2-e1616705650602.jpg","height":85,"parallax":false} /-->
 
 <!-- wp:spacer {"height":60} -->
 <div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -5207,8 +5385,8 @@
 		<wp:post_id>309</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-20 23:30:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-20 21:30:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 10:03:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 10:03:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 11:56:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 11:56:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[welcome]]></wp:post_name>
@@ -5244,82 +5422,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Contact]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/contact/</link>
-		<pubDate>Sun, 21 Mar 2021 22:34:31 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?page_id=340</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns {"className":"ss-glass-effect-container"} -->
-<div class="wp-block-columns ss-glass-effect-container"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4>GOT A QUESTION?</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>We’re here to help and answer any question you might have. We look forward to hearing from you 🙂</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:sunshine-riseplugin/divider {"height":30} /-->
-
-<!-- wp:sunshine-riseplugin/contact {"location":"Sleeknote ApS Jens Baggesens Vej 90A, 8200 Aarhus","email":"support@sunshine-themes.com","phone":"+45 71 99 11 57"} /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:contact-form-7/contact-form-selector {"id":6,"title":"Contact form 1"} -->
-<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="6" title="Contact form 1"]</div>
-<!-- /wp:contact-form-7/contact-form-selector --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":60} -->
-<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:sunshine-riseplugin/leaflet {"position":{"lat":"51.51444","lng":"0.18712"},"popupMessage":"Rise Restaurant","zoom":"16","height":85} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>340</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-22 00:34:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-21 22:34:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 11:39:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 11:39:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[414]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/headerimage.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featuredImageFocalPoint]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{i:0;d:0.520000000000000017763568394002504646778106689453125;i:1;d:0.689999999999999946709294817992486059665679931640625;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[featuredImageParallax]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
-		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[spay_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[CONTACT]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/2021/04/10/342/</link>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/342/</link>
 		<pubDate>Sun, 21 Mar 2021 22:35:50 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
 		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=342</guid>
@@ -5327,16 +5431,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>342</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:30:15]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-21 22:35:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:30:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:30:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[342]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -5377,207 +5481,13 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-03-22]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=444</link>
-		<pubDate>Fri, 26 Mar 2021 01:59:01 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://sunshine-themes.com/risetheme-demo2/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>444</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 01:59:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 01:59:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:57:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:57:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119821]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Newsletter]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=445</link>
-		<pubDate>Fri, 26 Mar 2021 02:00:49 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/newsletter/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[newsletter]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>445</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 02:00:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 02:00:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[newsletter-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119801]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newsletter-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Shop]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=446</link>
-		<pubDate>Fri, 26 Mar 2021 02:01:06 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/shop/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>446</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 02:01:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 02:01:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:57:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:57:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119821]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[shop-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Cart]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=447</link>
-		<pubDate>Fri, 26 Mar 2021 02:01:06 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/cart/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>447</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 02:01:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 02:01:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119800]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cart-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Checkout]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=448</link>
-		<pubDate>Fri, 26 Mar 2021 02:01:06 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>448</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 02:01:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 02:01:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119800]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[checkout-2]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5610,8 +5520,8 @@
 		<wp:post_id>450</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-05 13:09:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-05 11:09:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 10:58:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 10:58:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-15 00:01:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-15 00:01:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -5655,264 +5565,265 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?p=1</link>
-		<pubDate>Tue, 30 Mar 2021 15:09:35 +0000</pubDate>
+		<title><![CDATA[SHOP]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/shop/</link>
+		<pubDate>Sat, 10 Apr 2021 11:42:00 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="https://sunshine-themes.com/">Sunshine Themes</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:09:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:09:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:50:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:50:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed-3]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119457]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-03-30 15:09:35]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-03-30 15:09:35]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=2</link>
-		<pubDate>Tue, 30 Mar 2021 15:09:35 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://sunshine-themes.com/risetheme-demo3/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:09:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:09:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:57:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:57:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119821]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Shop]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=5</link>
-		<pubDate>Tue, 30 Mar 2021 15:37:17 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/shop/</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=523</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:37:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:37:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:57:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:57:01]]></wp:post_modified_gmt>
+		<wp:post_id>523</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-04-10 11:42:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119821]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[shop]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[217]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-05-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Cart]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=6</link>
-		<pubDate>Tue, 30 Mar 2021 15:37:18 +0000</pubDate>
+		<title><![CDATA[Home 1]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/home-1/</link>
+		<pubDate>Thu, 20 May 2021 12:20:03 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/cart/</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=581</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:37:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:37:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:40]]></wp:post_modified_gmt>
+		<wp:post_id>581</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[home-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119800]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[cart]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[581]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://sunshine-themes.com/risetheme/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Checkout]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=7</link>
-		<pubDate>Tue, 30 Mar 2021 15:37:18 +0000</pubDate>
+		<title><![CDATA[Home 2]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/home-2/</link>
+		<pubDate>Thu, 20 May 2021 12:20:03 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/checkout/</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=582</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:37:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:37:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:40]]></wp:post_modified_gmt>
+		<wp:post_id>582</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[home-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119800]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[582]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://sunshine-themes.com/risetheme-demo2/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[My account]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=8</link>
-		<pubDate>Tue, 30 Mar 2021 15:37:18 +0000</pubDate>
+		<title><![CDATA[Home 3]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/2021/05/20/home-3/</link>
+		<pubDate>Thu, 20 May 2021 12:20:03 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/my-account/</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?p=583</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-30 15:37:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-30 15:37:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:40]]></wp:post_modified_gmt>
+		<wp:post_id>583</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 12:20:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 12:20:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 12:20:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[home-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[583]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://sunshine-themes.com/risetheme-demo3/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Newsletter]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/newsletter/</link>
+		<pubDate>Tue, 30 Mar 2021 15:39:46 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/newsletter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[newsletter]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-30 15:39:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-30 15:39:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-30 15:39:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-30 15:39:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[newsletter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119800]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[my-account]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
 		<title><![CDATA[AL TARTUFO]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/product/al-tartufo/</link>
@@ -6142,6 +6053,68 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dishes]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_gallery/275/</link>
+		<pubDate>Sat, 20 Mar 2021 18:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=ss_r_p_gallery&#038;p=275</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gallery {"ids":[221,214],"imageCrop":false,"linkTo":"none","sizeSlug":"full"} -->
+<figure class="wp-block-gallery columns-2"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/round-brown-ceramic-bowl-836850.jpg" alt="" data-id="221" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/round-brown-ceramic-bowl-836850.jpg" data-link="https://sunshine-themes.com/risetheme/round-brown-ceramic-bowl-836850/" class="wp-image-221"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/blur-breakfast-close-up-dairy-product-376464.jpg" alt="" data-id="214" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/blur-breakfast-close-up-dairy-product-376464.jpg" data-link="https://sunshine-themes.com/risetheme/blur-breakfast-close-up-dairy-product-376464/" class="wp-image-214"/></figure></li></ul></figure>
+<!-- /wp:gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>275</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-20 20:26:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 18:26:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-30 15:47:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-30 15:47:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[275]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[ss_r_p_gallery]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="ss_r_p_gallery_sections" nicename="our-dishes"><![CDATA[Our Dishes]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[153]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Drinks]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_gallery/276/</link>
+		<pubDate>Sat, 20 Mar 2021 18:28:50 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=ss_r_p_gallery&#038;p=276</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gallery {"ids":[146,147],"imageCrop":false,"linkTo":"none","sizeSlug":"full"} -->
+<figure class="wp-block-gallery columns-2"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/clear-glass-with-strawberry-inside-922356.jpg" alt="" data-id="146" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/clear-glass-with-strawberry-inside-922356.jpg" data-link="https://sunshine-themes.com/risetheme/clear-glass-with-strawberry-inside-922356/" class="wp-image-146"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/fruit-juice-2110924.jpg" alt="" data-id="147" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/fruit-juice-2110924.jpg" data-link="https://sunshine-themes.com/risetheme/fruit-juice-2110924/" class="wp-image-147"/></figure></li></ul></figure>
+<!-- /wp:gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>276</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-20 20:28:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 18:28:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-30 15:47:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-30 15:47:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[276]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[ss_r_p_gallery]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="ss_r_p_gallery_sections" nicename="our-drinks"><![CDATA[Our Drinks]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[148]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6512,8 +6485,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>303</wp:post_id>
 		<wp:post_date><![CDATA[2021-03-20 22:43:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-20 20:43:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-20 22:43:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-20 20:43:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-03 00:24:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-03 00:24:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[focaccia]]></wp:post_name>
@@ -6524,6 +6497,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="main-courses"><![CDATA[MAIN COURSES]]></category>
+		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -6583,21 +6557,47 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.1.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5.2.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:4;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>7</wp:comment_id>
+			<wp:comment_author><![CDATA[sherif magdy]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sh1k0002011@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://sunshine-themes.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[156.194.72.47]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-05-03 00:24:43]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-05-03 00:24:43]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Great :)]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>1</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[FUNGHI MISTI]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/product/funghi-misti/</link>
@@ -6832,79 +6832,385 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?p=349</link>
-		<pubDate>Fri, 12 Feb 2021 21:20:14 +0000</pubDate>
+		<title><![CDATA[sushi]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/product/sushi/</link>
+		<pubDate>Sat, 20 Mar 2021 20:47:01 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?p=1</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=product&#038;p=306</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://sunshine-themes.com/">Sunshine Themes</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>349</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-12 21:20:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-12 21:20:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-12 21:20:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-12 21:20:14]]></wp:post_modified_gmt>
+		<content:encoded><![CDATA[grilled sirloin steak coated in rice espresso, served medium rare with truffle fries]]></content:encoded>
+		<excerpt:encoded><![CDATA[grilled sirloin steak coated in rice espresso, served medium rare with truffle fries]]></excerpt:encoded>
+		<wp:post_id>306</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-20 22:47:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 20:47:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-20 22:47:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-20 20:47:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sushi]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="cocktails"><![CDATA[COCKTAILS]]></category>
+		<category domain="product_cat" nicename="desserts"><![CDATA[DESSERTS]]></category>
+		<category domain="product_cat" nicename="main-courses"><![CDATA[MAIN COURSES]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[224]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.1.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[BURRATA]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/product/burrata/</link>
+		<pubDate>Sat, 20 Mar 2021 20:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=product&#038;p=307</guid>
+		<description></description>
+		<content:encoded><![CDATA[whole pan seared duck breast served with fig chutney, mixed green salad and french fries]]></content:encoded>
+		<excerpt:encoded><![CDATA[whole pan seared duck breast served with fig chutney, mixed green salad and french fries]]></excerpt:encoded>
+		<wp:post_id>307</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-20 22:48:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-20 20:48:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-20 22:48:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-20 20:48:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[burrata]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="cocktails"><![CDATA[COCKTAILS]]></category>
+		<category domain="product_cat" nicename="desserts"><![CDATA[DESSERTS]]></category>
+		<category domain="product_cat" nicename="drinks"><![CDATA[DRINKS]]></category>
+		<category domain="product_cat" nicename="main-courses"><![CDATA[MAIN COURSES]]></category>
+		<category domain="product_cat" nicename="salads"><![CDATA[SALADS]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[124]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.1.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/contact/</link>
+		<pubDate>Sun, 21 Mar 2021 22:34:31 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?page_id=340</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns {"className":"ss-glass-effect-container"} -->
+<div class="wp-block-columns ss-glass-effect-container"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4>GOT A QUESTION?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We’re here to help and answer any question you might have. We look forward to hearing from you 🙂</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:sunshine-riseplugin/divider {"height":30} /-->
+
+<!-- wp:sunshine-riseplugin/contact {"location":"Sleeknote ApS Jens Baggesens Vej 90A, 8200 Aarhus","email":"support@sunshine-themes.com","phone":"+45 71 99 11 57"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:contact-form-7/contact-form-selector {"id":6,"title":"Contact form 1"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="6" title="Contact form 1"]</div>
+<!-- /wp:contact-form-7/contact-form-selector --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:sunshine-riseplugin/leaflet {"position":{"lat":"51.51444","lng":"0.18712"},"popupMessage":"Rise Restaurant","zoom":"16","height":85} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>340</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-22 00:34:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-21 22:34:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-10 11:39:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-10 11:39:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[414]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/headerimage.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featuredImageFocalPoint]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{i:0;d:0.520000000000000017763568394002504646778106689453125;i:1;d:0.689999999999999946709294817992486059665679931640625;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[featuredImageParallax]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[spay_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[sherif]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/?post_type=rtb-booking&#038;p=540</link>
+		<pubDate>Thu, 03 Jun 2021 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?post_type=rtb-booking&#038;p=540</guid>
+		<description></description>
+		<content:encoded><![CDATA[I am Coming!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>540</wp:post_id>
+		<wp:post_date><![CDATA[2021-06-03 17:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-06-03 17:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-29 22:58:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-29 22:58:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sherif__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[rtb-booking]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[rtb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"party";i:14;s:5:"email";s:21:"sh1k0002011@gmail.com";s:5:"phone";s:11:"01287507238";s:2:"ip";s:13:"156.194.72.47";s:15:"date_submission";i:1619736317;s:4:"logs";a:1:{i:0;a:4:{i:0;s:5:"email";i:1;s:37:"Update regarding your booking at rise";i:2;s:45:"<p>Welcome sir to our rise Restaurant :)</p>
+";i:3;s:19:"2021-04-29 22:48:11";}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_value><![CDATA[confirmed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1616268250]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1619737139]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		<wp:meta_value><![CDATA[sherif]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>7</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-02-12 21:20:14]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-02-12 21:20:14]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
-		<title><![CDATA[My account]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=449</link>
-		<pubDate>Fri, 26 Mar 2021 02:01:06 +0000</pubDate>
+		<title><![CDATA[sherif]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/?post_type=rtb-booking&#038;p=542</link>
+		<pubDate>Thu, 06 May 2021 03:00:00 +0000</pubDate>
 		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/my-account/</guid>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?post_type=rtb-booking&#038;p=542</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[Hello i am here !]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>449</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 02:01:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 02:01:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:56:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:56:40]]></wp:post_modified_gmt>
+		<wp:post_id>542</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-06 03:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-06 03:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-03 00:18:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-03 00:18:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account-2__trashed]]></wp:post_name>
+		<wp:post_name><![CDATA[sherif-2__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[rtb-booking]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[rtb]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"party";i:17;s:5:"email";s:22:"sh1k00002015@gmail.com";s:5:"phone";s:11:"01287507235";s:2:"ip";s:13:"156.194.72.47";s:15:"date_submission";i:1619737063;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[confirmed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1620001089]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sherif-2]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Welcome]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/?page_id=574</link>
+		<pubDate>Thu, 20 May 2021 11:56:35 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/?page_id=574</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer {"height":51} -->
+<div style="height:51px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>574</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-20 11:56:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-20 11:56:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-20 11:56:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-20 11:56:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -6912,75 +7218,22 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_last_editor_used_jetpack]]></wp:meta_key>
+		<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617119800]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1621511795]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[my-account-2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/?p=451</link>
-		<pubDate>Fri, 26 Mar 2021 01:59:01 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo2/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="https://sunshine-themes.com/">Sunshine Themes</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>451</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-26 01:59:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-26 01:59:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-26 01:59:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-26 01:59:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1616891912]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-03-26 01:59:01]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-03-26 01:59:01]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
 					<item>
 		<title><![CDATA[Contact form 1]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/?post_type=wpcf7_contact_form&#038;p=9</link>
@@ -7772,68 +8025,6 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Dishes]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_gallery/275/</link>
-		<pubDate>Sat, 20 Mar 2021 18:26:58 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=ss_r_p_gallery&#038;p=275</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gallery {"ids":[221,214],"imageCrop":false,"linkTo":"none","sizeSlug":"full"} -->
-<figure class="wp-block-gallery columns-2"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/round-brown-ceramic-bowl-836850.jpg" alt="" data-id="221" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/round-brown-ceramic-bowl-836850.jpg" data-link="https://sunshine-themes.com/risetheme/round-brown-ceramic-bowl-836850/" class="wp-image-221"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/blur-breakfast-close-up-dairy-product-376464.jpg" alt="" data-id="214" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/blur-breakfast-close-up-dairy-product-376464.jpg" data-link="https://sunshine-themes.com/risetheme/blur-breakfast-close-up-dairy-product-376464/" class="wp-image-214"/></figure></li></ul></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>275</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-20 20:26:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 18:26:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:47:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:47:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[275]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[ss_r_p_gallery]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="ss_r_p_gallery_sections" nicename="our-dishes"><![CDATA[Our Dishes]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[153]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Drinks]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_gallery/276/</link>
-		<pubDate>Sat, 20 Mar 2021 18:28:50 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=ss_r_p_gallery&#038;p=276</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gallery {"ids":[146,147],"imageCrop":false,"linkTo":"none","sizeSlug":"full"} -->
-<figure class="wp-block-gallery columns-2"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/clear-glass-with-strawberry-inside-922356.jpg" alt="" data-id="146" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/clear-glass-with-strawberry-inside-922356.jpg" data-link="https://sunshine-themes.com/risetheme/clear-glass-with-strawberry-inside-922356/" class="wp-image-146"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/fruit-juice-2110924.jpg" alt="" data-id="147" data-full-url="https://sunshine-themes.com/risetheme-demo3/wp-content/uploads/sites/6/2021/03/fruit-juice-2110924.jpg" data-link="https://sunshine-themes.com/risetheme/fruit-juice-2110924/" class="wp-image-147"/></figure></li></ul></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>276</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-20 20:28:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 18:28:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-30 15:47:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-30 15:47:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[276]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[ss_r_p_gallery]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="ss_r_p_gallery_sections" nicename="our-drinks"><![CDATA[Our Drinks]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[148]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Events]]></title>
 		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_gallery/events/</link>
 		<pubDate>Sat, 20 Mar 2021 18:31:39 +0000</pubDate>
@@ -7893,208 +8084,6 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[157]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[sushi]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/product/sushi/</link>
-		<pubDate>Sat, 20 Mar 2021 20:47:01 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=product&#038;p=306</guid>
-		<description></description>
-		<content:encoded><![CDATA[grilled sirloin steak coated in rice espresso, served medium rare with truffle fries]]></content:encoded>
-		<excerpt:encoded><![CDATA[grilled sirloin steak coated in rice espresso, served medium rare with truffle fries]]></excerpt:encoded>
-		<wp:post_id>306</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-20 22:47:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 20:47:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-20 22:47:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-20 20:47:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sushi]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="cocktails"><![CDATA[COCKTAILS]]></category>
-		<category domain="product_cat" nicename="desserts"><![CDATA[DESSERTS]]></category>
-		<category domain="product_cat" nicename="main-courses"><![CDATA[MAIN COURSES]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[224]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.1.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[BURRATA]]></title>
-		<link>https://sunshine-themes.com/risetheme-demo3/product/burrata/</link>
-		<pubDate>Sat, 20 Mar 2021 20:48:16 +0000</pubDate>
-		<dc:creator><![CDATA[sh1k00]]></dc:creator>
-		<guid isPermaLink="false">https://sunshine-themes.com/risetheme/?post_type=product&#038;p=307</guid>
-		<description></description>
-		<content:encoded><![CDATA[whole pan seared duck breast served with fig chutney, mixed green salad and french fries]]></content:encoded>
-		<excerpt:encoded><![CDATA[whole pan seared duck breast served with fig chutney, mixed green salad and french fries]]></excerpt:encoded>
-		<wp:post_id>307</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-20 22:48:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-20 20:48:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-20 22:48:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-20 20:48:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[burrata]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="cocktails"><![CDATA[COCKTAILS]]></category>
-		<category domain="product_cat" nicename="desserts"><![CDATA[DESSERTS]]></category>
-		<category domain="product_cat" nicename="drinks"><![CDATA[DRINKS]]></category>
-		<category domain="product_cat" nicename="main-courses"><![CDATA[MAIN COURSES]]></category>
-		<category domain="product_cat" nicename="salads"><![CDATA[SALADS]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[124]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5.1.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8408,6 +8397,90 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[riserestaurant-won-a-diners-choice-award-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[ss_r_p_likes]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[numbers_of_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[PANINI CALIFORNIEN]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_likes/panini-californien/</link>
+		<pubDate>Thu, 06 May 2021 19:20:47 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/ss_r_p_likes/panini-californien/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>551</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-06 19:20:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-06 19:20:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-06 19:20:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-06 19:20:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[panini-californien]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[ss_r_p_likes]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[numbers_of_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[RiseRestaurant won a Diners&#8217; Choice Award]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_likes/riserestaurant-won-a-diners-choice-award-3/</link>
+		<pubDate>Sun, 09 May 2021 22:04:48 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/ss_r_p_likes/riserestaurant-won-a-diners-choice-award-3/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>553</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-09 22:04:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-09 22:04:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-09 22:04:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-09 22:04:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[riserestaurant-won-a-diners-choice-award-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[ss_r_p_likes]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[numbers_of_likes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[RiseRestaurant won a Diners&#8217; Choice Award]]></title>
+		<link>https://sunshine-themes.com/risetheme-demo3/ss_r_p_likes/riserestaurant-won-a-diners-choice-award-4/</link>
+		<pubDate>Sun, 09 May 2021 21:23:02 +0000</pubDate>
+		<dc:creator><![CDATA[sh1k00]]></dc:creator>
+		<guid isPermaLink="false">https://sunshine-themes.com/risetheme-demo3/ss_r_p_likes/riserestaurant-won-a-diners-choice-award-4/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>554</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-09 21:23:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-09 21:23:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-09 21:23:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-09 21:23:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[riserestaurant-won-a-diners-choice-award-4]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
